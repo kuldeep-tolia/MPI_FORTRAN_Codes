@@ -1,1 +1,3 @@
-# MPI_FORTRAN_Codes
+-> This repository has computer programs written in FORTRAN and has two sections:
+- Section-1 discusses about the basic MPI calls and demonstrates their usage via computer programs.  
+- Section-2 discusses about the numerical methods and miscellaneous problems which are parallelized using distributed memory paradigm (MPI) and checks its parallel computing performance.   
